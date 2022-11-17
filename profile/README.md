@@ -14,6 +14,6 @@ In Feddrum you may to see:
 
 
 Contacts (Telegram): 
-- @denkisil (Project Manager, Backend Developer, DevOps)
-- @Rezistar (Frontend Developer, DevOps)
-- @xexoxor (Frontend Developer, Designer)
+- <a href="https://github.com/denkisil">@denkisil</a> (Project Manager, Backend Developer, DevOps)
+- <a href="https://github.com/youspinmerond">@Rezistar</a> (Frontend Developer, DevOps)
+- <a href="https://github.com/MrMiquy">@xexoxor</a> (Frontend Developer, Designer)
