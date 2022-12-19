@@ -4,7 +4,7 @@
 
 ![favicon](https://user-images.githubusercontent.com/70776479/199841981-dcba4428-4915-4cb7-928b-84076ae136a6.png)
 
-In Feddrum you may to see:
+In Feedrum you may to see:
 - Modern Design
 - Simple API
 - Easy-to-post Deploy
