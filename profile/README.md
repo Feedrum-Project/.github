@@ -23,9 +23,8 @@
       * Backend Developer 
 * MrMiquy
     * Github: MrMiquy
-    * Telegram: @xexoxor
+    * Discord: your morgue#5657
     * Roles: 
-      * Frontend Developer 
       * Designer
 * Rezistar
     * Github: youspinmerond
