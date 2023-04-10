@@ -1,4 +1,4 @@
-![favicon](../logo.png)
+![favicon](logo.png)
 # Feedrum #
 > Blog platfrom for developers from Ukraine
 
