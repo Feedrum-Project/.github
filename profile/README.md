@@ -1,4 +1,4 @@
-![favicon](logo.png)
+![favicon](https://raw.githubusercontent.com/Feedrum-Project/.github/main/profile/logo.png)
 # Feedrum #
 > Blog platfrom for developers from Ukraine
 
