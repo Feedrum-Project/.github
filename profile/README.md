@@ -21,8 +21,8 @@
     * Roles:
       * Backend Developer 
       * Designer
-* MrMiquy
-    * Github: MrMiquy
+* setbe
+    * Github: setbe
     * Discord: mrnm
     * Roles: 
       * Financial Department
