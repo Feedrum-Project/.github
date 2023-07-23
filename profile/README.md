@@ -23,10 +23,9 @@
       * Designer
 * MrMiquy
     * Github: MrMiquy
-    * Discord: your morgue#5657
+    * Discord: mrnm
     * Roles: 
       * Financial Department
-      * Designer
 * Rezistar
     * Github: youspinmerond
     * Telegram: @Rezistar
