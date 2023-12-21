@@ -2,7 +2,7 @@
 # Feedrum #
 > Blog platfrom for developers from Ukraine
 
-THE PROJECT IS NO LONGER UNDER DEVELOPMENT
+# THE PROJECT IS NO LONGER UNDER DEVELOPMENT
 
 ## Our features ##
 + Modern Design
