@@ -11,25 +11,21 @@
 + Open source
 
 ## Team ##
-* Denkisil
+* [@ossenjoyer](https://github.com/ossenjoyer)
   * Telegram: @denkisil
-  * Github: denkisil
   * Roles: 
     * Project Manager
     * DevOps
-* Elias
-    * Github: EliasDevis
+* [@EliasDevis](https://github.com/EliasDevis)
     * Discord: !Elias#3519
     * Roles:
       * Backend Developer 
       * Designer
-* setbe
-    * Github: setbe
+* [@setbe](https://github.com/setbe)
     * Discord: mrnm
     * Roles: 
       * Financial Department
-* Rezistar
-    * Github: youspinmerond
+* [@youspinmerond](https://github.com/youspinmerond)
     * Telegram: @Rezistar
     * Roles:
       * Frontend Developer
